@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: En Passant Engine Dev Blog
+description: A  blog of how I created a GUI chess engine from scratch
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://boundlessfate.github.io/EnPassantEngineBlog
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
