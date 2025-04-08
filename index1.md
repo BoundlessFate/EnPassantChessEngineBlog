@@ -1,7 +1,7 @@
 ---
 title: 1. Player Vs. Player
 layout: default
-/1PlayerVsPlayer/
+nav_order: 2
 ---
 
 The first order of business when creating this chess engine is making a gui. 

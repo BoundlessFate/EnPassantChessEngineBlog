@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 This blog will go over the way I created my Chess Engine "En Passant Chess Engine"
